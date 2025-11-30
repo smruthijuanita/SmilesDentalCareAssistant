@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+sentence-transformers
+groq
+PyPDF2
+pandas
+python-dotenv
+streamlit-authenticator
+numpy
+supabase
+pydantic
+pydantic-settings
+scikit-learn
